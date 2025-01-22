@@ -349,8 +349,15 @@ Locales["sv"] = {
   tuningNotAvailable = "Inte tillgängligt för detta fordon",
   leaveVehicleFirst = "Please leave the vehicle first",
 
-  -- Shops
+   -- Shops
   shopNameError = "Invalid shop name",
   failedGiveItem = "Failed to give item to player",
   purchaseSuccess = "Successfully bought %dx %s",
+  cannotCarry = "You cannot carry this item.",
+  Access = "Press [E] to Access ",
+  ShopTargetLabel = "Access Shop",
+  StashTargetLabel = "Access Stash",
+  enter_purchase_amount = "Enter the amount you want to buy",
+  invalid_amount = "Invalid amount entered: ",
+  BuyItem = "Buy For",
 }
